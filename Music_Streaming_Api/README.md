@@ -224,4 +224,4 @@ Here is a breakdown of the code you provided:
 
 ### 7. Services: These classes (`PlayListService`, `RoleService`, `SongService`, `TokenService`, `UserService`) contain the business logic of your application. They use the repositories to perform CRUD operations on the entities.
 
-#### Overall, the code structure follows the MVC (Model-View-Controller) pattern commonly used in Spring Boot applications. The controllers handle HTTP requests, the services handle the business logic, and the repositories handle the database operations.
+#### Overall, the code structure follows the MVC (Model-View-Controller) pattern commonly used in Spring Boot applications. The controllers handle HTTP requests, the services handle the business logic, and the repositories handle the database operation.
